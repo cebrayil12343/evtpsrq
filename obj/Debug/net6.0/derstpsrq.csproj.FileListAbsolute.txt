@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\derstpsrq\derstpsrq\bin\Debug\net6.0\derstpsrq.exe
+C:\Users\User\source\repos\derstpsrq\derstpsrq\bin\Debug\net6.0\derstpsrq.deps.json
+C:\Users\User\source\repos\derstpsrq\derstpsrq\bin\Debug\net6.0\derstpsrq.runtimeconfig.json
+C:\Users\User\source\repos\derstpsrq\derstpsrq\bin\Debug\net6.0\derstpsrq.dll
+C:\Users\User\source\repos\derstpsrq\derstpsrq\bin\Debug\net6.0\derstpsrq.pdb
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.AssemblyInfo.cs
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.dll
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\refint\derstpsrq.dll
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.pdb
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\derstpsrq.genruntimeconfig.cache
+C:\Users\User\source\repos\derstpsrq\derstpsrq\obj\Debug\net6.0\ref\derstpsrq.dll
